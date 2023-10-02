@@ -1,0 +1,1 @@
+print ("even and odd number")
