@@ -16,10 +16,9 @@ class pow:
             
     
 
-numbers=pow(9)
+numbers=pow(8)
 
 i=iter(numbers)
-print(next(i))
 print(next(i))
 print(next(i))
 print(next(i))
